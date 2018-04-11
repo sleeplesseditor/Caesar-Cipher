@@ -1,3 +1,3 @@
-# Is Palindrome Algorithm
+# Caesar Cipher Algorithm
 
-This is a simple example of the Is Palindrome algorithm in JavaScript.
+This is a simple example of the Caesar Cipher algorithm in JavaScript.
